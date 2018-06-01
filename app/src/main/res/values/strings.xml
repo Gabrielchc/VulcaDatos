@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">VulcaDatos</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings">ACERCA DE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_mapa_gps" translatable="false">Map</string>
+    <string name="agencia">Agencia</string>
+    <string name="altitud">Altitud</string>
+    <string name="departamento">Departamento</string>
+    <string name="estado">Estado</string>
+    <string name="fechainstalacion">Fecha Inst</string>
+    <string name="geologia">Geologia</string>
+    <string name="idestacion">ID Estacion</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="muninipio">Municipio</string>
+    <string name="nombre">Nombre</string>
+    <string name="tipodescarga">Tipo Descarga</string>
+    <string name="tipoestacion">Tipo Estacion</string>
+    <string name="topografia">Topografia</string>
+    <string name="tipo">Tipo</string>
+    <string name="estaciongps">Estacion GPS</string>
+    <string name="volcan">Volcan</string>
+    <string name="estacionacelero">Estacion Acelerograficas</string>
+    <string name="acerca">Acerca de</string>
+    <string name="volver">Volver</string>
+</resources>

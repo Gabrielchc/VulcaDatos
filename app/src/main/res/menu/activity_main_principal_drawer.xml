@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/gps"
+            android:icon="@drawable/iconogps"
+            android:title="@string/estaciongps" />
+        <item
+            android:id="@+id/sismo"
+            android:icon="@drawable/iconosismo"
+            android:title="@string/estacionacelero" />
+
+        <item
+            android:id="@+id/acercaDe"
+            android:icon="@drawable/iconoacercade"
+            android:title="@string/acerca" />
+    </group>
+
+
+
+</menu>

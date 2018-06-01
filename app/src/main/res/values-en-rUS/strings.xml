@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VulcaDatos</string>
+    <string name="action_settings">About</string>
+    <string name="agencia">Agency</string>
+    <string name="altitud">"Elevation "</string>
+    <string name="departamento">Department</string>
+    <string name="estado">State</string>
+    <string name="fechainstalacion">Date Inst</string>
+    <string name="geologia">Geology</string>
+    <string name="idestacion">ID Station</string>
+    <string name="latitud">Latitude</string>
+    <string name="longitud">longitude</string>
+    <string name="muninipio">Town</string>
+    <string name="nombre">Name</string>
+    <string name="tipodescarga">Type Download</string>
+    <string name="tipoestacion">Type Station</string>
+    <string name="topografia">Topography</string>
+    <string name="tipo">Type</string>
+    <string name="volcan">Volcano</string>
+    <string name="estaciongps">Station GPS</string>
+    <string name="estacionacelero">Station Accelerographs</string>
+    <string name="acerca">About</string>
+    <string name="volver">Return</string>
+</resources>
